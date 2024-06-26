@@ -3,5 +3,6 @@ Link : [https://github.com/lazor14/Array-Sort-Visualization/](https://lazor14.gi
 
 
 
-https://github.com/lazor14/Array-Sort-Visualization/assets/145974344/a87775cc-abd5-4d6f-ba18-a7f6dac84876
+
+https://github.com/lazor14/Array-Sort-Visualization/assets/145974344/3b070fc9-7429-4365-bf8b-a2349bd7c08a
 
